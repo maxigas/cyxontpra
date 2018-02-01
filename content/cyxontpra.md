@@ -1,6 +1,6 @@
 % Anti-Modern Techno-Science: Cybernetics, Ontology, Practice in the European Hacker Tradition
 % Maxigas <maxigas@anargeek.net>
-% Final version (2016-10-28)
+% First proof, corrected citations (2018-02-02)
 
 # Introduction
 
